@@ -28,6 +28,7 @@ et enfin j'ai lancer la commande qui permet d'enregistrer les images uploader lo
 
 
   3) capture d'ecran de L'application
+  les captures d'écran de l'application sont dans le dossier pulic/storage/capture
 
 
 
