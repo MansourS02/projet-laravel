@@ -24,4 +24,4 @@ Route::middleware(['auth', 'verified'])->group(function () {
 });
 
 // Routes d'auth (login, register, etc.)
-require __DIR__.'/auth.php';
+require __DIR__.'/auth.php'; 

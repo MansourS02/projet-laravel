@@ -28,7 +28,8 @@ et enfin j'ai lancer la commande qui permet d'enregistrer les images uploader lo
 
 
   3) capture d'ecran de L'application
-  les captures d'écran de l'application sont dans le dossier pulic/storage/capture
+  
+  c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 122025.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 122004.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121950.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121853.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121837.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121800.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121732.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121703.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121640.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121620.png
 
 
 
