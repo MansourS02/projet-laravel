@@ -29,7 +29,16 @@ et enfin j'ai lancer la commande qui permet d'enregistrer les images uploader lo
 
 
   3) capture d'ecran de L'application
-![alt text](public/storage/capture/Capture1.png) ![alt text](public/storage/capture/Capture2.png) ![alt text](public/storage/capture/Capture3.png) ![alt text](public/storage/capture/Capture4.png) ![alt text](public/storage/capture/Capture5.png) ![alt text](public/storage/capture/Capture6.png) ![alt text](public/storage/capture/Capture7.png) ![alt text](public/storage/capture/Capture8.png) ![alt text](public/storage/capture/Capture9.png)
 
+[](README.md) 
+![capture1](docs/capture/Capture1.png) 
+![capture2](docs/capture/Capture2.png) 
+![capture3](docs/capture/Capture3.png) 
+![capture4](docs/capture/Capture4.png) 
+![capture5](docs/capture/Capture5.png) 
+![capture6](docs/capture/Capture6.png)
+![capture7](docs/capture/Capture7.png) 
+![capture8](docs/capture/Capture8.png) 
+![capture9](docs/capture/Capture9.png)
 
 
