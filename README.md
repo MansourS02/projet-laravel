@@ -29,7 +29,7 @@ et enfin j'ai lancer la commande qui permet d'enregistrer les images uploader lo
 
 
   3) capture d'ecran de L'application
- public/storage/capture/Capture d'écran 2025-12-05 121620 - Copie.png public/storage/capture/Capture d'écran 2025-12-05 121640 - Copie.png public/storage/capture/Capture d'écran 2025-12-05 121703 - Copie.png public/storage/capture/Capture d'écran 2025-12-05 121732 - Copie.png public/storage/capture/Capture d'écran 2025-12-05 121800 - Copie.png public/storage/capture/Capture d'écran 2025-12-05 121837 - Copie.png public/storage/capture/Capture d'écran 2025-12-05 121853 - Copie.png public/storage/capture/Capture d'écran 2025-12-05 121950.png public/storage/capture/Capture d'écran 2025-12-05 122004.png public/storage/capture/Capture d'écran 2025-12-05 122025.png
+![alt text](public/storage/capture/Capture1.png) ![alt text](public/storage/capture/Capture2.png) ![alt text](public/storage/capture/Capture3.png) ![alt text](public/storage/capture/Capture4.png) ![alt text](public/storage/capture/Capture5.png) ![alt text](public/storage/capture/Capture6.png) ![alt text](public/storage/capture/Capture7.png) ![alt text](public/storage/capture/Capture8.png) ![alt text](public/storage/capture/Capture9.png)
 
 
 
