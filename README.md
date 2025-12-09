@@ -5,6 +5,7 @@
 Gest-produits est une application qui permet aux entreprises une meilleure gestion de leur produit et
 stock avec un interface utilsateurs magnifique et simple
 
+
   2) Instruction d'installation
 
 Pour creer le projet laravel j'ai utilise la commande suivante:
@@ -28,8 +29,7 @@ et enfin j'ai lancer la commande qui permet d'enregistrer les images uploader lo
 
 
   3) capture d'ecran de L'application
-  
-  c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 122025.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 122004.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121950.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121853.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121837.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121800.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121732.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121703.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121640.png c:\Users\RENIFLE\Pictures\Screenshots\Capture d'écran 2025-12-05 121620.png
+ public/storage/capture/Capture d'écran 2025-12-05 121620 - Copie.png public/storage/capture/Capture d'écran 2025-12-05 121640 - Copie.png public/storage/capture/Capture d'écran 2025-12-05 121703 - Copie.png public/storage/capture/Capture d'écran 2025-12-05 121732 - Copie.png public/storage/capture/Capture d'écran 2025-12-05 121800 - Copie.png public/storage/capture/Capture d'écran 2025-12-05 121837 - Copie.png public/storage/capture/Capture d'écran 2025-12-05 121853 - Copie.png public/storage/capture/Capture d'écran 2025-12-05 121950.png public/storage/capture/Capture d'écran 2025-12-05 122004.png public/storage/capture/Capture d'écran 2025-12-05 122025.png
 
 
 

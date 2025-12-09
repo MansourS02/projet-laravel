@@ -329,7 +329,7 @@
     }
 
     .btn-delete {
-        background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        background: red;
         color: white;
         flex: 1;
     }
